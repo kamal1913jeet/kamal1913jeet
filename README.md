@@ -62,9 +62,11 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project Name](https://github.com/YOUR-USERNAME/repo1) | One-line description of what it does and the result achieved | Python, TensorFlow |
-| [Project Name](https://github.com/YOUR-USERNAME/repo2) | One-line description of what it does and the result achieved | PyTorch, NLP |
-| [Project Name](https://github.com/YOUR-USERNAME/repo3) | One-line description of what it does and the result achieved | Pandas, Scikit-learn |
+| heart-disease-predictor
+(https://github.com/kamal1913jeet/heart-disease-predictor )| Developed a system that that predicts heart disease risk from medical parameters.| Python, Scikit-Learn |
+| movie-recommender-system (https://github.com/kamal1913jeet/movies-recommender-system) |  suggests similar movies using cosine similarity and displays posters, ratings, and summaries via TMDB API integration.| Streamlit , NLP |
+| Whatsapp-Chat-Analyzer
+https://github.com/kamal1913jeet/Whatsapp-Chat-Analyzer | data analysis project that processes exported chat files and generates useful insights such as message activity timelines, most active users, emoji usage patterns, word frequency visualization, and interaction heatmaps. | Pandas, Scikit-learn , Matplot , Seaborn , Python,Streamlit |
 
 ---
 
