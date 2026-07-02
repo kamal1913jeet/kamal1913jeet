@@ -44,10 +44,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-eight.vercel.app/api?username=kamal1913jeet&show_icons=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=39FF14&bg_color=0D0221&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=kamal1913jeet&layout=compact&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=39FF14&bg_color=0D0221&cache_seconds=86400" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamal1913jeet&hide_border=true&background=0D0221&ring=FF00FF&fire=39FF14&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=BC13FE&currStreakNum=00FFFF&sideNums=39FF14" />
