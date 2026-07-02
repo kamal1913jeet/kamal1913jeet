@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist & AI/ML Engineer turning data into decisions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D8ABC&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning;Data+Analysis+%7C+NLP+%7C+Computer+Vision;Turning+raw+data+into+real+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning;Data+Analysis+%7C+NLP+%7C+Computer+Vision;Turning+raw+data+into+real+insights" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,langchain,scikitlearn,pandas,jupyter,mysql,postgres,git,docker,aws,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,langchain,scikitlearn,pandas,jupyter,mysql,postgres,git,docker,aws,linux&theme=dark" />
 </p>
 
 <p align="center">
@@ -44,16 +44,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kamal1913jeet&show_icons=true&theme=default&hide_border=true&title_color=0D8ABC&icon_color=14B8A6&text_color=333333" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal1913jeet&layout=compact&hide_border=true&title_color=0D8ABC&text_color=333333" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kamal1913jeet&show_icons=true&theme=default&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=39FF14&bg_color=0D0221" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal1913jeet&layout=compact&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=39FF14&bg_color=0D0221" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamal1913jeet&hide_border=true&background=FFFFFF&ring=0D8ABC&fire=14B8A6&currStreakLabel=0D8ABC" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamal1913jeet&hide_border=true&background=0D0221&ring=FF00FF&fire=39FF14&currStreakLabel=00FFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamal1913jeet&theme=flat&no-frame=true&column=6&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kamal1913jeet&theme=radical&no-frame=true&column=6&margin-w=8&margin-h=8" />
 </p>
 
 ---
