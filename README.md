@@ -40,20 +40,6 @@
   <img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=FF00FF&labelColor=0A0A0A"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamal1913jeet&hide_border=true&background=0D0221&ring=FF00FF&fire=39FF14&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=BC13FE&currStreakNum=00FFFF&sideNums=39FF14" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamal1913jeet&theme=radical&no-frame=true&column=6&margin-w=8&margin-h=8" />
-</p>
-
----
 
 ### 📌 Featured Projects
 
