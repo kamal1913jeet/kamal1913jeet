@@ -39,18 +39,25 @@
   <img src="https://img.shields.io/badge/SQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=00FFFF&labelColor=0A0A0A"/>
   <img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=FF00FF&labelColor=0A0A0A"/>
 </p>
-📊 GitHub Stats
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-eight.vercel.app/api?username=kamal1913jeet&show_icons=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=39FF14&bg_color=0D0221&cache_seconds=86400" />
   <img height="165" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=kamal1913jeet&layout=compact&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=39FF14&bg_color=0D0221&cache_seconds=86400" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamal1913jeet&hide_border=true&background=0D0221&ring=FF00FF&fire=39FF14&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=BC13FE&currStreakNum=00FFFF&sideNums=39FF14" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kamal1913jeet&theme=radical&no-frame=true&column=6&margin-w=8&margin-h=8" />
 </p>
+
+---
 
 ### 📌 Featured Projects
 
