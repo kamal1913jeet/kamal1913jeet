@@ -90,4 +90,4 @@
   <img src="https://komarev.com/ghpvc/?username=kamal1913jeet&style=flat-square&color=BC13FE&label=Profile+Views" alt="profile views" />
 </p>
 
-<p align="center"><i>⭐ From <b>Kamaljeet</b> — let's connect and build something great!</i></p>
+<p align="center"><i>⭐ From <b>Kamaljeet Kaur</b> — let's connect and build something great!</i></p>
