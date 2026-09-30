@@ -17,9 +17,21 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on **Generating a new AI tool**
-- 🌱 Learning **Agentic AI and Embedding AI**
-- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Data Visualization, LLMs**
+🎓 Diploma in Computer Science & Engineering
+
+🎓 Currently pursuing B.Tech in Artificial Intelligence & Machine Learning
+
+💼 Python & AI Intern — Extech Digital
+
+👨‍🏫 Former Instructor — WhiteHatCoders
+
+👨‍💻 Currently working at Excellence Technology
+
+🤖 Exploring Generative AI & Agentic AI
+
+🐍 Strong focus on Python and practical AI development
+
+🔨 I learn by building real-world projects and applications
 - ⚡ Fun fact: **Eager to adapt to new environments and advancements**
 
 ---
