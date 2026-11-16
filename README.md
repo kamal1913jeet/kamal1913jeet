@@ -112,16 +112,6 @@ I keep this section limited to verifiable credentials. Add each certificate with
 - [Certificate title](credential-url) — Issuing organization, Month Year
 -->
 
-## Project Demos & Screenshots
-
-Project source-code links are included above. Live demo links and application screenshots can be added after the apps are deployed and the screenshots are uploaded to this repository. This avoids showing broken images or demo links that do not work.
-
-Suggested image paths once you upload screenshots:
-- `assets/heart-disease-predictor.png`
-- `assets/movie-recommender.png`
-- `assets/whatsapp-chat-analyzer.png`
-- `assets/bank-management-system.png`
-
 ## Currently Exploring
 
 - Advanced Retrieval-Augmented Generation (RAG)
