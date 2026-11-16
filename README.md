@@ -1,105 +1,198 @@
-<h1 align="center">Hi 👋, I'm Kamaljeet</h1>
-<h3 align="center">💻 Data Scientist & AI/ML Engineer turning data into decisions</h3>
+# 👋 Hi, I'm Kamaljeet Kaur
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning;Data+Analysis+%7C+NLP+%7C+Computer+Vision;Turning+raw+data+into+real+insights" alt="Typing SVG" />
-</p>
+\<h3 align="center">
+&#x20; AI/ML Developer | Generative AI Enthusiast | Python & AI/ML Trainer
+\</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/kamaljeet-kaur-5a09983ba/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/></a>
-  <a href="mailto:kamal1913jeet@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF00FF"/></a>
-  <a href="https://github.com/kamal1913jeet"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
-  <a href="https://kaggle.com/kamal1913jeet"><img src="https://img.shields.io/badge/Kaggle-0A0A0A?style=for-the-badge&logo=kaggle&logoColor=00FFFF"/></a>
-  <a href="https://huggingface.co/kamal1913jeet"><img src="https://img.shields.io/badge/Hugging_Face-0A0A0A?style=for-the-badge&logo=huggingface&logoColor=FF00FF"/></a>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Exploring+Generative+AI+%26+Agentic+AI;Python+%7C+Machine+Learning+%7C+Deep+Learning;Transforming+Ideas+Into+Real+World+Solutions](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=21\&duration=3000\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=750\&lines=Building+Intelligent+AI+Applications;Exploring+Generative+AI+%26+Agentic+AI;Python+%7C+Machine+Learning+%7C+Deep+Learning;Transforming+Ideas+Into+Real+World+Solutions)" alt="Typing SVG" />
+\</p>
 
----
-
-### 🧑‍💻 About Me
-
-🎓 Diploma in Computer Science & Engineering
-
-🎓 Currently pursuing B.Tech in Artificial Intelligence & Machine Learning
-
-💼 Python & AI Intern — Extech Digital
-
-👨‍🏫 Former Instructor — WhiteHatCoders
-
-👨‍💻 Currently working at Excellence Technology
-
-🤖 Exploring Generative AI & Agentic AI
-
-🐍 Strong focus on Python and practical AI development
-
-🔨 I learn by building real-world projects and applications
-- ⚡ Fun fact: **Eager to adapt to new environments and advancements**
+\<p align="center">
+&#x20; \<a href="[https://github.com/kamal1913jeet](https://github.com/kamal1913jeet)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github)" />
+&#x20; \</a>
+&#x20; \<a href="[https://linkedin.com/in/kamaljeet-kaur-5a09983ba/](https://linkedin.com/in/kamaljeet-kaur-5a09983ba/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" />
+&#x20; \</a>
+&#x20; \<a href="mailto\:kamal1913jeet\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="[https://kaggle.com/kamal1913jeet](https://kaggle.com/kamal1913jeet)">
+&#x20;   \<img src="[https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white](https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)" />
+&#x20; \</a>
+\</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,langchain,scikitlearn,pandas,jupyter,mysql,postgres,git,docker,aws,linux&theme=dark" />
-</p>
+I'm an aspiring **AI/ML Engineer and Generative AI Developer** passionate about building intelligent applications, solving real-world problems, and transforming data into meaningful insights.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=00FFFF&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=flat-square&logo=tensorflow&logoColor=FF00FF&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/OpenCV-0A0A0A?style=flat-square&logo=opencv&logoColor=39FF14&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=flat-square&logo=langchain&logoColor=BC13FE&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=flat-square&logo=pandas&logoColor=00FFFF&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/NumPy-0A0A0A?style=flat-square&logo=numpy&logoColor=FF00FF&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-0A0A0A?style=flat-square&logo=scikit-learn&logoColor=39FF14&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/SQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=00FFFF&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=FF00FF&labelColor=0A0A0A"/>
-</p>
+Currently pursuing my Bachelor's degree in Artificial Intelligence & Machine Learning while working as a Python and AI/ML Trainer.
 
----
+- 🎓 Diploma in Computer Science & Engineering — Completed
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning — Pursuing
+- 👨‍💻 Python & AI/ML Trainer at **Excellence Technology**
+- 💼 10 Months of Professional Training Experience (January 2026 – Present)
+- 🏢 Former Python AI Intern at Extech Digital
+- 👨‍🏫 Former Instructor at WhiteHatCoders (3 Months)
+- 🤖 Exploring Generative AI, LLMs, RAG and Agentic AI
+- 🔬 Interested in practical AI development and intelligent automation
+- ⚡ Believe in learning by building and teaching by implementing
 
-### 📚 Currently Exploring
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Agentic_AI-0A0A0A?style=flat-square&logoColor=00FFFF&labelColor=0A0A0A&color=0A0A0A"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-0A0A0A?style=flat-square&logoColor=FF00FF&labelColor=0A0A0A&color=0A0A0A"/>
-  <img src="https://img.shields.io/badge/Vector_Embeddings-0A0A0A?style=flat-square&logoColor=39FF14&labelColor=0A0A0A&color=0A0A0A"/>
-  <img src="https://img.shields.io/badge/LLM_Fine--tuning-0A0A0A?style=flat-square&logoColor=BC13FE&labelColor=0A0A0A&color=0A0A0A"/>
-</p>
+> "Don't just learn technology. Build something meaningful with it."
 
 ---
 
-### 📊 GitHub Stats
+## 💼 Professional Journey
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kamal1913jeet&show_icons=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=39FF14&bg_color=0D0221&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal1913jeet&layout=compact&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=39FF14&bg_color=0D0221&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamal1913jeet&hide_border=true&background=0D0221&ring=FF00FF&fire=39FF14&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=BC13FE&currStreakNum=00FFFF&sideNums=39FF14" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamal1913jeet&bg_color=0D0221&color=00FFFF&line=FF00FF&point=39FF14&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamal1913jeet&theme=radical&no-frame=true&column=6&margin-w=8&margin-h=8" />
-</p>
+\<table> \<tr> \<td width="15%" align="center">🚀\</td> \<td> \<strong>Excellence Technology\</strong>\<br> Python & AI/ML Trainer\<br> \<sub>January 2026 – Present | 10 Months\</sub>\<br>\<br> • Teaching Python, Data Science, AI/ML and Generative AI.\<br> • Designing practical assignments and real-world projects.\<br> • Guiding students through hands-on implementation of AI concepts. \</td> \</tr> \<tr> \<td align="center">💻\</td> \<td> \<strong>Extech Digital\</strong>\<br> Python AI Intern\<br> \<sub>Internship Experience\</sub>\<br>\<br> • Practical exposure to Python and AI development.\<br> • Worked on programming and applied AI concepts. \</td> \</tr> \<tr> \<td align="center">👨‍🏫\</td> \<td> \<strong>WhiteHatCoders\</strong>\<br> Instructor\<br> \<sub>3 Months\</sub>\<br>\<br> • Delivered programming instruction and practical learning sessions.\<br> • Helped students understand technical concepts through implementation. \</td> \</tr> \</table>
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Technical Arsenal
 
-| Project | Description | Tech |
-|---|---|---|
-| [Heart Disease Predictor](https://github.com/kamal1913jeet/heart-disease-predictor) | Developed a system that predicts heart disease risk from medical parameters. | Python, Scikit-Learn |
-| [Movie Recommender System](https://github.com/kamal1913jeet/movies-recommender-system) | Suggests similar movies using cosine similarity and displays posters, ratings, and summaries via TMDB API integration. | Streamlit, NLP |
-| [WhatsApp Chat Analyzer](https://github.com/kamal1913jeet/Whatsapp-Chat-Analyzer) | Data analysis project that processes exported chat files and generates insights: message timelines, active users, emoji usage, word frequency, and interaction heatmaps. | Pandas, Matplotlib, Seaborn, Python, Streamlit |
+### Programming & Data Science
+
+\<p> \<img src="[https://skillicons.dev/icons?i=python,mysql,postgres,git,github,jupyter,vscode](https://skillicons.dev/icons?i=python,mysql,postgres,git,github,jupyter,vscode)" /> \</p>
+
+### Artificial Intelligence & Machine Learning
+
+\<p> \<img src="[https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,sklearn](https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,sklearn)" /> \</p>
+
+\<p> \<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)" /> \<img src="[https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)" /> \<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)" /> \</p>
+
+### Generative AI & Modern AI Development
+
+\<p> \<img src="[https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)" /> \<img src="[https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain)" /> \<img src="[https://img.shields.io/badge/LLMs-0052CC?style=for-the-badge](https://img.shields.io/badge/LLMs-0052CC?style=for-the-badge)" /> \<img src="[https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)" /> \<img src="[https://img.shields.io/badge/Prompt_Engineering-008080?style=for-the-badge](https://img.shields.io/badge/Prompt_Engineering-008080?style=for-the-badge)" /> \<img src="[https://img.shields.io/badge/Agentic_AI-FF6F61?style=for-the-badge](https://img.shields.io/badge/Agentic_AI-FF6F61?style=for-the-badge)" /> \</p>
+
+### Data Analytics & Visualization
+
+\<p> \<img src="[https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)" /> \<img src="[https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)" /> \</p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamal1913jeet&style=flat-square&color=BC13FE&label=Profile+Views" alt="profile views" />
-</p>
+## 🧠 Currently Exploring
 
-<p align="center"><i>⭐ From <b>Kamaljeet Kaur</b> — let's connect and build something great!</i></p>
+\<p align="center">
+\<img src="[https://img.shields.io/badge/Advanced_RAG-6C63FF?style=flat-square](https://img.shields.io/badge/Advanced_RAG-6C63FF?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/AI_Agents-00BFA6?style=flat-square](https://img.shields.io/badge/AI_Agents-00BFA6?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/Vector_Databases-7B68EE?style=flat-square](https://img.shields.io/badge/Vector_Databases-7B68EE?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/LLM_Applications-FF8C42?style=flat-square](https://img.shields.io/badge/LLM_Applications-FF8C42?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/AI_Automation-00A6ED?style=flat-square](https://img.shields.io/badge/AI_Automation-00A6ED?style=flat-square)" />
+\</p>
+
+---
+
+## 🌟 Featured Projects
+
+\<table>
+\<tr>
+\<td width="50%">
+\<h3 align="center">❤️ Heart Disease Predictor\</h3>
+\<p align="center">
+\<a href="[https://github.com/kamal1913jeet/heart-disease-predictor](https://github.com/kamal1913jeet/heart-disease-predictor)">
+\<img src="[https://img.shields.io/badge/VIEW_PROJECT-00BFFF?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/VIEW_PROJECT-00BFFF?style=for-the-badge\&logo=github\&logoColor=white)" />
+\</a>
+\</p>
+\<p align="center">
+An ML-powered application that predicts heart disease risk using patient health parameters.
+\</p>
+\<p align="center">
+Python • Scikit-learn • Machine Learning
+\</p>
+\</td>
+\<td width="50%">
+\<h3 align="center">🎬 Movie Recommender\</h3>
+\<p align="center">
+\<a href="[https://github.com/kamal1913jeet/movies-recommender-system](https://github.com/kamal1913jeet/movies-recommender-system)">
+\<img src="[https://img.shields.io/badge/VIEW_PROJECT-00BFFF?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/VIEW_PROJECT-00BFFF?style=for-the-badge\&logo=github\&logoColor=white)" />
+\</a>
+\</p>
+\<p align="center">
+A content-based recommendation system using cosine similarity and TMDB API integration.
+\</p>
+\<p align="center">
+Python • NLP • Streamlit
+\</p>
+\</td>
+\</tr>
+\<tr>
+\<td width="50%">
+\<h3 align="center">💬 WhatsApp Chat Analyzer\</h3>
+\<p align="center">
+\<a href="[https://github.com/kamal1913jeet/Whatsapp-Chat-Analyzer](https://github.com/kamal1913jeet/Whatsapp-Chat-Analyzer)">
+\<img src="[https://img.shields.io/badge/VIEW_PROJECT-00BFFF?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/VIEW_PROJECT-00BFFF?style=for-the-badge\&logo=github\&logoColor=white)" />
+\</a>
+\</p>
+\<p align="center">
+Analyzes chat data to generate message trends, activity insights, emoji statistics and visualizations.
+\</p>
+\<p align="center">
+Python • Pandas • Matplotlib • Streamlit
+\</p>
+\</td>
+\<td width="50%">
+\<h3 align="center">🏦 Bank Management System\</h3>
+\<p align="center">
+\<a href="[https://github.com/kamal1913jeet/python-practice-file](https://github.com/kamal1913jeet/python-practice-file)">
+\<img src="[https://img.shields.io/badge/VIEW_GITHUB-00BFFF?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/VIEW_GITHUB-00BFFF?style=for-the-badge\&logo=github\&logoColor=white)" />
+\</a>
+\</p>
+\<p align="center">
+A Python-based banking application featuring account management, transactions and account statements.
+\</p>
+\<p align="center">
+Python • Streamlit • MySQL
+\</p>
+\</td>
+\</tr>
+\</table>
+
+---
+
+## 📊 GitHub Analytics
+
+\<p align="center">
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=kamal1913jeet&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=kamal1913jeet\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=kamal1913jeet&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=kamal1913jeet\&layout=compact\&theme=tokyonight\&hide_border=true)" />
+\</p>
+
+\<p align="center">
+\<img width="75%" src="[https://streak-stats.demolab.com?user=kamal1913jeet&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=kamal1913jeet\&theme=tokyonight\&hide_border=true)" />
+\</p>
+
+### 📈 Contribution Activity
+
+\<p align="center">
+\<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=kamal1913jeet&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=kamal1913jeet\&theme=tokyo-night\&hide_border=true\&area=true)" />
+\</p>
+
+### 🏆 GitHub Achievements
+
+\<p align="center">
+\<img src="[https://github-profile-trophy.vercel.app/?username=kamal1913jeet&theme=algolia&no-frame=true&no-bg=true&column=6](https://github-profile-trophy.vercel.app/?username=kamal1913jeet\&theme=algolia\&no-frame=true\&no-bg=true\&column=6)" />
+\</p>
+
+---
+
+## 📬 Let's Connect
+
+I'm always interested in connecting with developers, AI enthusiasts, tech communities and people working on innovative ideas.
+
+\<p align="center"> \<a href="[https://linkedin.com/in/kamaljeet-kaur-5a09983ba/](https://linkedin.com/in/kamaljeet-kaur-5a09983ba/)"> \<img src="[https://img.shields.io/badge/LinkedIn-Let](https://img.shields.io/badge/LinkedIn-Let)'s_Connect-0A66C2?style=for-the-badge&logo=linkedin" /> \</a> \<a href="mailto\:kamal1913jeet\@gmail.com"> \<img src="[https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge\&logo=gmail)" /> \</a> \<a href="[https://github.com/kamal1913jeet](https://github.com/kamal1913jeet)"> \<img src="[https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge\&logo=github)" /> \</a> \</p>
+
+---
+
+\<p align="center">
+\<img src="[https://komarev.com/ghpvc/?username=kamal1913jeet&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge](https://komarev.com/ghpvc/?username=kamal1913jeet\&label=PROFILE+VIEWS\&color=00D9FF\&style=for-the-badge)" />
+\</p>
+
+\<h3 align="center">
+✨ Learning • Building • Teaching • Innovating ✨
+\</h3>
+
+\<p align="center">
+\<i>Designed with passion by \<b>Kamaljeet Kaur\</b>\</i>
+\</p>
